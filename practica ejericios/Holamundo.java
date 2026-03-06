@@ -15,7 +15,9 @@ public class Holamundo {
         System.out.println ( "Hola! Mi edad es: " + edad );
         System.out.println ( "Mi estatura es: " + estatura );
         System.out.println ( "Tiene carnet: " + tieneCarnet );
-       System.out.println ( "Direccion: " + direccion );
+        System.out.println ( "Letra: " + letra );
+        System.out.println ( "Direccion: " + direccion );
+        System.out.println ( "Numero largo: " + numeroLargo );
 
 
 
