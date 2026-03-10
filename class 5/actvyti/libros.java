@@ -23,15 +23,6 @@ public class libros {
     public void mostrarInfo() {
         System.out.println("Libro: " + this.titulo + ", escrito por " + this.autor + ", tiene " + this.paginas + " páginas.");
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
     }
 
 
