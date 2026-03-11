@@ -1,7 +1,8 @@
 package ACTIVIDADEVALUATIVA;
 
-public class Main {
-    public static void main(String[] args) {
+public class Mainbanco {
+
+ public static void main(String[] args) {
         // Crear una instancia de CuentaBancaria
         CuentaBancaria cuenta = new CuentaBancaria("123456789", 1000.0, "Juan Pérez");
 
