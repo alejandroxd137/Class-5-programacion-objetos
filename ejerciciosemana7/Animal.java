@@ -1,3 +1,5 @@
+package ejerciciosemana7;
+
 
 public class Animal {
 
